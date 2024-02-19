@@ -24,12 +24,6 @@ function Gemini() {
       </div>
     );
     
-
-//   return (
-//     <div>
-      
-//     </div>
-//   )
 }
 
 export default Gemini
